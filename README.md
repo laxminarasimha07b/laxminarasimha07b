@@ -20,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=narasimha07b&show_icons=true&locale=en&layout=compact" alt="narasimha07b" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narasimha07b&" alt="narasimha07b" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narasimha07b&" alt="Narasimha07b" /></p>
