@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxminarasimha07b&label=Profile%20views&color=0e75b6&style=flat" alt="laxminarasimha07b" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laxminarasimha07b" alt="laxminarasimha07b" /></a> </p>
-
 - I’m looking to collaborate on **Java Spring Boot backend projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/laxminarasimha07b](https://github.com/laxminarasimha07b)
