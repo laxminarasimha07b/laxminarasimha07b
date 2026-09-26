@@ -3,12 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narasimha07b&label=Profile%20views&color=0e75b6&style=flat" alt="narasimha07b" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narasimha07b" alt="narasimha07b" /></a> </p>
-
 - 🔭 I’m currently working on [SmartLearn-LMS](https://github.com/Narasimha07b/SmartLearn)
-
-- 🌱 I’m currently learning **Docker, Kafka, and CI/CD pipelines.**
-
 - I’m looking to collaborate on **Java Spring Boot backend projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Narasimha07b](https://github.com/Narasimha07b)
